@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Transformation</string>
+    <string name="the_date_is_today">The date is today !!</string>
+    <string name="the_randomized_date_is">The randomized date is :</string>
+</resources>
